@@ -1,32 +1,44 @@
-# Hi there! 👋 I'm a Backend Developer
+# Hi there! 👋 I'm Zeyad Gabr
 
-I'm a passionate backend developer specializing in Python and FastAPI. I'm currently learning and building projects to improve my skills and aim to become a professional backend developer.
+🚀 **Backend Developer | FastAPI Enthusiast**  
+Passionate about building efficient, scalable APIs with **Python** and **FastAPI**. My latest project, **E-Commerce API**, showcases my expertise in backend development.
 
-## 🛠 Tech Stack
-- **Languages:** Python
-- **Backend Frameworks:** FastAPI
-- **Databases:** MySQL, SQLAlchemy
-- **Other Tools:** VS Code, Postman, GitHub
+---
 
-## 🚀 My Projects
-I have built two projects so far, but I will be uploading many more soon. Stay tuned!
+## 🛠️ Tech Stack
+🔹 **Languages**: Python  
+🔹 **Backend Frameworks**: FastAPI  
+🔹 **Databases**: MySQL, SQLite, SQLAlchemy (ORM)  
+🔹 **Security**: JWT Authentication, bcrypt (Passlib)  
+🔹 **Tools**: VS Code, Postman, Git, GitHub  
 
-## 🔥 What I'm working on
-- Improving my backend development skills
-- Mastering JWT authentication and security best practices
-- Building and optimizing RESTful APIs using FastAPI
-- Enhancing my database management skills with MySQL
+---
 
-## 📫 Contact Me
-- **GitHub**: https://github.com/ZeyadGabr1
-- **Email**: zeyad.gabr12222009@gmail.com
-- **LinkedIn**: soon
+## 🚀 Projects
+### 📌 [E-Commerce API](https://github.com/ZeyadGabr1/E-Commerce-Api) *(Latest Achievement)*
+A **robust RESTful API** for managing users, products, and orders. Built with **FastAPI**, featuring:
+✅ JWT authentication  
+✅ MySQL/SQLite support  
+✅ Comprehensive error handling  
 
-Feel free to check out my projects and connect with me!
+🔹 *More projects coming soon—stay tuned!*  
 
+---
 
+## 🔥 Currently Working On
+✅ Enhancing my **backend development** expertise  
+✅ Deepening knowledge of **JWT authentication & security**  
+✅ Optimizing RESTful APIs for **performance & scalability**  
+✅ Expanding database skills with **MySQL & advanced ORM techniques**  
 
-<!---
-ZeyadGabr1/ZeyadGabr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📫 Let's Connect!
+📌 **GitHub**: [ZeyadGabr1](https://github.com/ZeyadGabr1)  
+📧 **Email**: [zeyad.gabr12222009@gmail.com](mailto:zeyad.gabr12222009@gmail.com)  
+🔗 **LinkedIn**: *Coming soon!*  
+
+💡 *Feel free to explore my projects, provide feedback, or collaborate!*  
+
+---
+📅 **Last Updated: March 2025**
