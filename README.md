@@ -1,9 +1,12 @@
 ## Hey there 👋, I'm Zeyad Ossama!
 
-### Hey there! Excited to share my coding journey with you 🚀
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/ZeyadOsssama)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/zeyadossama5/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile) -->
 
+### Glad to see you here! 🌟
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyadossama&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadossama" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZeyadGabr1&label=Profile%20views&color=0e75b6&style=flat" alt="ZeyadGabr1" /> </p>
 
 I'm a high school student 🎓 who started my programming journey in November 2024. Currently exploring different areas of programming and learning the fundamentals, still figuring out which path to specialize in.
 
@@ -46,8 +49,8 @@ Feel free to connect with me for anything tech-related or just to say hi! Let's 
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeyadossama&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadossama&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadGabr1&hide_border=true" />="https://github-readme-stats.vercel.app/api?username=ZeyadGabr1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadGabr1&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=c"/>
 </details>
 
 <details>
