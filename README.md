@@ -1,6 +1,7 @@
 ## Hey there 👋, I'm Zeyad Ossama!
 
-### Glad to see you here! 🌟
+### Hey there! Excited to share my coding journey with you 🚀
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyadossama&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadossama" /> </p>
 
@@ -10,7 +11,7 @@ I'm passionate about learning and continuous improvement. I love experimenting w
 
 Feel free to connect with me for anything tech-related or just to say hi! Let's learn and grow together. 🚀
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### About Me:
 
@@ -30,7 +31,7 @@ Feel free to connect with me for anything tech-related or just to say hi! Let's 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="json"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqlite/sqlite.png" alt="sqlite"></code>
+<code><img height="27" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"></code>
 
 ### My Current Skills:
 
@@ -45,8 +46,8 @@ Feel free to connect with me for anything tech-related or just to say hi! Let's 
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeyadGabr1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadGabr1&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeyadossama&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadossama&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
