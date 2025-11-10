@@ -49,7 +49,7 @@ Feel free to connect with me for anything tech-related or just to say hi! Let's 
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadGabr1&hide_border=true" />="https://github-readme-stats.vercel.app/api?username=ZeyadGabr1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeyadGabr1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadGabr1&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=c"/>
 </details>
 
@@ -57,4 +57,18 @@ Feel free to connect with me for anything tech-related or just to say hi! Let's 
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadGabr1&hide_border=true" />
+</details>
+
+<hr>
+<h3 align="left">✨ Random Dev Quote:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
