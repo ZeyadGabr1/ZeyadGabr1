@@ -2,7 +2,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/ZeyadOsssama)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/zeyadossama5/)
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile) -->
 
 ### Glad to see you here! 🌟
 
@@ -61,14 +60,10 @@ Feel free to connect with me for anything tech-related or just to say hi! Let's 
 </details>
 
 <hr>
-<h3 align="left">✨ Random Dev Quote:</h3>
+<h3 align="left">✨Dev Quote:</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 <hr>
 
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
